@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "GUAN-TING CHEN",
+    "label": "Programmer",
+    "picture": "",
+    "email": "ks812117@gmail.com",
+    "phone": "(886) 912862098",
+    "website": "http://noorye4.github.io",
+    "summary": "A beginner for Computer Science researcher. I'am interested use programming to solve real world problems.",
+    "location": {
+      "address": "Dahu E. Rd., Hunei Dist.",
+      "postalCode": "829+47",
+      "city": "Kaohsiung",
+      "countryCode": "TW",
+      "region": "Asia"
+    },
+    "profiles": [
+      {
+        "network": "facebook",
+        "username": "guanting.chen.33",
+        "url": ""
+      },
+      {
+        "network": "weibo",
+        "username": "Nooryse",
+        "url": "http://weibo.com/3577687017/profile?topnav=1&wvr=6"
+      },
+      {
+        "network": "github",
+        "username": "noorye4",
+        "url": "https://github.com/noorye4"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "INSOWE",
+      "position": "Intern",
+      "website": "http://www.insowe.com",
+      "startDate": "2013-12-01",
+      "summary": "We are Familiar with the HTML5 standard and responsive design, so that you would have perfect browsing experience of your content that is on any handheld device.We are the most professional development team with abundant experience in the field of development and operation, helping our customers to convert their ideas into websites efficiently, and be at the leading position.Are there any ideas you want to realize? Would you like to improve your internet career to the next scale? We offer services of “website development” and “professional",
+      "highlights": [
+        "DESIGN: We offer a variety of services, such as visual design and user interface. We provide professional design services from websites to apps, printings, and cards.",
+        "DEVELOPMENT: We provide professional front-end and back-end development services, including website application programs, enterprise internal information system, company official websites, and so on."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chia Nan University of Pharmacy ＆ Science",
+      "area": "Department of Applied Informatics and Multimedia",
+      "studyType": "Bachelor",
+      "startDate": "2012-09-15"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Guan-Ting Chen, Li-kai Huang, Chun-Wei Tsai, and Ming-Chao Chiang \"An Intelligent Robot for Home Healthcare,\" IEEE International Conference on Consumer Electronics - Taiwan, 2015. (Accepted)",
+      "releaseDate": "2015-03-31",
+      "summary": "This paper presents an intelligent robot by using the positioner of robot itself and the IP camera system"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "C#",
+        "Java",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Framework & Technology",
+      "level": "Master",
+      "keywords": [
+        "Numpy",
+        "OpenCV",
+        "Git",
+        "Mercurial"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Science",
+      "keywords": [
+        "Machinelearing",
+        "Robotic",
+        "Software Security",
+        "OS Security",
+        "Embeded System"
+      ]
+    }
+  ]
+}
